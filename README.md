@@ -91,7 +91,7 @@ _Coursework_: Artificial Intelligence, Digital Signal Processing, Algorithms, Da
 ---
 
 
-**Languages **: Python, Java, C/C++  | **ML Toolkit**: PyTorch, Tensorflow, Scikit-Learn, OpenCV, Numpy, Pandas
+**Languages**: Python, Java, C/C++  | **ML Toolkit**: PyTorch, Tensorflow, Scikit-Learn, OpenCV, Numpy, Pandas
 
 **Deployment**: TensorRT, AWS Neuron, TFLite, ONNX, Flask/Django, Git/GitHub
 
