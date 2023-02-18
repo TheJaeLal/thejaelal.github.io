@@ -101,6 +101,6 @@ _Coursework_: Artificial Intelligence, Digital Signal Processing, Algorithms, Da
 ---
 
 
-* Recipient of *RF Tuition Scholarship SEAS (Spring’23)* for contributions in research at A2IL.
+* Recipient of '*RF Tuition Scholarship SEAS (Spring’23)*' for contributions in research at A2IL.
 * Core contributor in the Document AI team at Karza winning the award for **NASSCOM AI Challengers 2021**
 * Delivered a well-received tech-talk on ‘**_Demystifying Deep Learning_**’, to an audience of over 100, including VPs, & Directors of corporate banking at Barclays.
