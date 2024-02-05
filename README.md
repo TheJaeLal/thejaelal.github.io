@@ -1,8 +1,6 @@
 # Jay Ashok Lal
 
-Download PDF Resume [Here](https://github.com/TheJaeLal/thejaelal.github.io/raw/main/JayLal_Resume_2023.pdf)
-
-Availability for Summer ’23 Internship: _22 May 2023 to 3 September 2023_
+### Download Updated PDF Resume [Here](https://github.com/TheJaeLal/thejaelal.github.io/raw/main/Jay_Resume.pdf)
 
 **Education**
 
